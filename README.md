@@ -1,10 +1,10 @@
-# React Rocket show
+# React Rocket shoes
 
-<img src="" />
+<img src="https://i.imgur.com/nTU4gCZ.png" />
 
 ## Libraries
 
-Tailwindcss.
+tailwindcss.
 
 ## Start server
 
